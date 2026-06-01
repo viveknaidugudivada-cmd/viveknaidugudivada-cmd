@@ -68,7 +68,7 @@
 - Product Management
 - Shopping Cart
 - User Authentication
-- PHP + MySQL
+- Flask + MySQL
 
 ---
 
